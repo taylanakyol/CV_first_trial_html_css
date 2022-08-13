@@ -1,0 +1,322 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+
+}
+
+
+#mainpage {
+    padding: 15px;
+    background-color: #FBF4F2;
+    width: 825px;
+    height: 790px;
+    position: relative;
+    /* border-style: solid; */
+    border-radius: 15px;
+
+
+}
+
+#leftside {
+    /* border-style: solid; */
+    width: 285px;
+    height: 775px;
+    /* display: inline-block; */
+    /* float: left; */
+    border-radius: 15px;
+    padding: 10px;
+    background-color: #ECC1B8;
+    position: relative;
+
+
+}
+
+#rightside {
+    /* border-style: solid; */
+    width: 500px;
+    min-height: 650px;
+    margin-left: 295px;
+    border-radius: 15px;
+    padding: 0px 10px 10px 10px;
+    position: relative;
+    top: -775px;
+}
+
+/* ---LEFTSIDE CODES--- */
+
+/* .rightelements {
+    
+
+} */
+
+#photo {
+    /* border-style: solid; */
+    border-radius: 15px;
+    min-height: 75px;
+    margin-bottom: 5px;
+    text-align: center;
+
+}
+
+#photo img {
+    border-radius: 75px;
+    width: 140px;
+    padding: 5px;
+
+}
+
+#contact {
+    margin-top: 25px;
+    /* border-style: solid; */
+    border-radius: 15px;
+    min-height: 75px;
+    min-width: 250px;
+    margin-bottom: 5px;
+}
+
+#contact hr {
+
+    width: 175px;
+    margin-left: 1px;
+    border-style: groove;
+    color: black;
+    border-width: 0.5px;
+
+}
+
+#contact img {
+
+    width: 20px;
+
+    padding-top: 5px;
+
+
+}
+
+#telno {
+    font-size: 12px;
+    display: inline-block;
+    float: right;
+    margin-right: 115px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 7px;
+
+}
+
+#mail {
+    font-size: 12px;
+    display: inline-block;
+    float: right;
+    margin-right: 80px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 7px;
+
+}
+
+#github {
+    font-size: 12px;
+    display: inline-block;
+    float: right;
+    margin-right: 89px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 7px;
+
+}
+
+#location {
+    font-size: 12px;
+    display: inline-block;
+    float: right;
+    margin-right: 135px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 7px;
+    position: relative;
+    top: -58px;
+
+}
+
+#locationicon {
+    font-size: 12px;
+    position: relative;
+    top: -30px;
+    margin-right: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 7px;
+
+}
+
+
+#linkedin {
+    font-size: 12px;
+    position: relative;
+    top: -33px;
+    left: 35px;
+    margin-right: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 7px;
+
+}
+
+#linkedinicon {
+    font-size: 12px;
+    position: relative;
+    top: 3px;
+    margin-right: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 7px;
+
+}
+
+
+#education {
+    /* border-style: solid; */
+    border-radius: 15px;
+    min-height: 75px;
+    margin-bottom: 5px;
+    
+}
+
+#education hr {
+
+    width: 175px;
+    margin-left: 1px;
+    border-style: groove;
+    color: black;
+    border-width: 0.5px;
+
+}
+
+#edu1-1 {
+    margin-top: 3px;
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+
+
+#edu1 {
+    margin-top: 3px;
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+#edu2 {
+    margin-top: 5px;
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+
+#skills {
+    /* border-style: solid; */
+    border-radius: 15px;
+    min-height: 75px;
+    margin-bottom: 5px;
+    margin-top: 15px;
+}
+
+#skills p {
+    margin-top: 3PX;
+}
+
+#skills hr {
+
+    width: 175px;
+    margin-left: 1px;
+    border-style: groove;
+    color: black;
+    border-width: 0.5px;
+
+}
+
+
+/* ---LEFTSIDE CODES END--- */
+
+
+
+/* ---RIGHTSIDE CODES--- */
+
+#upside {
+    border-style: solid;
+    border-radius: 15px;
+    height: 150px;
+    margin-bottom: 5px;
+    background-color: #777777;
+    color: white;
+
+}
+
+#upside p {
+    text-align: center;
+    padding: 10px;
+    margin-top: 15px;
+    font-size: larger;
+}
+
+#upside hr {
+
+    width: 75px;
+    margin: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-style: groove;
+    color: black;
+    border-width: 0.5px;
+
+}
+
+
+
+#profile {
+    /* border-style: solid; */
+    border-radius: 15px;
+    min-height: 75px;
+    margin-bottom: 5px;
+    margin-top: 25px;
+
+}
+
+#profile hr {
+
+    width: 480px;
+    margin-left: 1px;
+    border-style: groove;
+    color: black;
+    border-width: 0.5px;
+
+}
+
+#profile p {
+
+    text-align: justify;
+
+}
+
+
+#experience {
+    /* border-style: solid; */
+    border-radius: 15px;
+    min-height: 75px;
+    margin-bottom: 5px;
+    margin-top: 15px;
+}
+
+#experience hr {
+
+    width: 480px;
+    margin-left: 1px;
+    border-style: groove;
+    color: black;
+    border-width: 0.5px;
+
+}
+
+#experience h3 {
+
+    line-height: 16px;
+
+}
